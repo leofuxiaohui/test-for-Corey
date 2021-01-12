@@ -1,6 +1,6 @@
-The build subsystem
+# The build subsystem
 
-New file:  generate.py
+# New file:  generate.py
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 from __future__ import print_function  # Python 2/3 compatibility
